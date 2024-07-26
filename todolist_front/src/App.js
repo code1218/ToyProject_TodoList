@@ -2,7 +2,7 @@
 function App() {
   return (
     <>
-      test
+      test 버그수정
     </>
   );
 }
